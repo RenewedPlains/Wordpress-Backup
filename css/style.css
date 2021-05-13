@@ -1,0 +1,115 @@
+.backup-sated, .backup-sated2 {
+    border-color: #74bf48 !important;
+    display: inline-block;
+    width: calc(100% - 25px);
+    margin: 0px !important;
+}
+
+
+.blackbadge {
+    background-color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+    padding: 0px 5px 2px 5px;
+    border-radius: 3px;
+    margin-left: 25px;
+    position: relative;
+    top: -8px;
+    color: white;
+    height: 19.5px;
+    cursor: pointer;
+}
+
+.frontbadge {
+    top: 0px;
+    margin-left: 0px;
+}
+
+.filename p {
+    padding-top: 5px;
+}
+
+.filename p a {
+    display: block;
+}
+
+.disabled {
+    color: rgba(0,0,0,.1);
+}
+
+.whiteboard {
+    background-color: white;
+    width: 100%;
+    height: 45px;
+}
+
+.leftfloat {
+    float: left;
+}
+
+.backall {
+    border-right: 1px solid rgba(0,0,0,0.1);
+    margin-right: 15px;
+    padding-right: 15px;
+}
+
+.backall .arrowleft {
+    width: 44px;
+    height: 44px;
+    background-color: #00a0d2;
+    float: left;
+    border: 1px solid #008EC2;
+}
+
+.backall .textleft {
+    float: left;
+    font-weight: bold;
+    padding-top: 12px;
+    margin-left: 15px;
+}
+
+.breadcrumb {
+    padding-top: 3px;
+}
+
+.rightrestore, .rightdownload {
+    background-color: #00a0d2;
+    width: 44px;
+    height: 44px;
+    float: right;
+    border: #008EC2 1px solid;
+}
+
+.qtranxs-lang-switch-wrap {
+    display: none !important;
+}
+
+.even td {
+    vertical-align: middle !important;
+}
+
+.whiteboard .iconnav {
+    width: 32px;
+    color: white;
+    margin-top: 13px;
+    margin-left: 6px;
+}
+
+.backupdelete {
+    margin-left: 12px !important;
+    margin-top: 8px !important;
+    margin-bottom: -6px !important;
+}
+
+.markall {
+    margin-left: 12px !important;
+    margin-top: 12px !important;
+    margin-bottom: -6px !important;
+}
+
+.clear {
+    clear: both;
+}
+
+.widefat tfoot th {
+    border-top: 0;
+}

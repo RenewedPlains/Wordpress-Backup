@@ -1,12 +1,12 @@
 <?php
 
 /*
-Plugin Name: Backup
-Plugin URI: http://webcoder.ch
+Plugin Name: Wordpress Backup
+Plugin URI: http://freuli.ch
 Description: Create and manage backups for your site.
 Version: 2.0
-Author: webcoder.ch, Mario Freuler
-Author URI: http://webcoder.ch
+Author: Mario Freuler
+Author URI: http://freuli.ch
 License: GPL
 */
 
